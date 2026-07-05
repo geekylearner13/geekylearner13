@@ -16,15 +16,15 @@ class PriyajGupta:
         self.role        = "AI/ML Engineering Student"
         self.location    = "Jharkhand, India"
         self.focus       = ["Computer Vision", "NLP", "LLMs", "RAG Systems"]
-        self.gpu_status  = "🔥 doing all the heavy lifting"
-        self.my_status   = "☕ supervising (watching Netflix)"
+        self.gpu_status  = "doing all the heavy lifting"
+        self.my_status   = "supervising (watching Netflix)"
         self.currently   = "3D U-Nets segmenting CT scans while I segment my sleep schedule"
 
     def train_model(self):
         print("Me: 'Epoch 1/60... let's go!'")
         print("Also me: *opens a new series*")
         print("GPU: 'I'll take it from here.'")
-        return "Dice Score: 0.909 🎯"
+        return "Dice Score: 0.909 "
 ```
 
 <div align="center">
@@ -35,19 +35,19 @@ class PriyajGupta:
 
 ---
 
-### 🧠 About the Neural Net Behind the Screen
+###  About the Neural Net Behind the Screen
 
-- 🔭 Building deep learning pipelines for **medical imaging** — currently pushed a 3D U-Net to a **0.909 Dice Score** on liver CT segmentation (LiTS benchmark), while my GPU quietly became the real MVP of the project.
-- 🤖 Deep into **LLMs, RAG pipelines, and prompt engineering** with LangChain & Hugging Face Transformers.
-- 🌱 Currently exploring: fine-tuning, transfer learning, and how many episodes I can watch during one training run.
-- 💬 Ask me about: PyTorch, medical image segmentation, or why my GPU deserves a LinkedIn profile more than I do.
-- ⚡ Fun fact: My model's loss curve converges faster than my sleep schedule.
+-  Building deep learning pipelines for **medical imaging** — currently pushed a 3D U-Net to a **0.909 Dice Score** on liver CT segmentation (LiTS benchmark), while my GPU quietly became the real MVP of the project.
+-  Deep into **LLMs, RAG pipelines, and prompt engineering** with LangChain & Hugging Face Transformers.
+-  Currently exploring: fine-tuning, transfer learning, and how many episodes I can watch during one training run.
+-  Ask me about: PyTorch, medical image segmentation, or why my GPU deserves a LinkedIn profile more than I do.
+-  Fun fact: My model's loss curve converges faster than my sleep schedule.
 
 ---
 
 <div align="center">
 
-### 📊 The Stats My GPU Helped Me Earn
+### The Stats My GPU Helped Me Earn
 
 <img src="https://github-readme-stats.vercel.app/api?username=geekylearner13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekylearner13&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
@@ -60,7 +60,7 @@ class PriyajGupta:
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
